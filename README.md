@@ -6,7 +6,7 @@ Hi! My name is Surya Pratap Singh 😄
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,nodejs,express,mongo,postgresql,aws,docker,git,github,cpp,java,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,nodejs,express,mongo,postgresql,aws,docker,git,github,cpp,java)](https://skillicons.dev)
 <br/>
 
 ### Socials
