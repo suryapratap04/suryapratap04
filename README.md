@@ -86,6 +86,6 @@ I enjoy designing scalable systems, building clean APIs, optimizing databases, a
 
 <div align="center">
 
-### 💡 *"Code is not just about making things work—it's about building systems that are scalable, maintainable, and reliable."*
+### 💡 *"First make it work. Then make it good."*
 
 </div>
